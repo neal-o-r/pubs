@@ -1,0 +1,2 @@
+# don't back up swp files
+*.swp

@@ -1,0 +1,2473 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-06-21T15:35:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/37890067",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "The Wright Venue"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2240482,
+              53.4457091
+            ],
+            [
+              -6.2237873,
+              53.4452369
+            ],
+            [
+              -6.2234167,
+              53.4453096
+            ],
+            [
+              -6.2234687,
+              53.4454036
+            ],
+            [
+              -6.2233989,
+              53.4454173
+            ],
+            [
+              -6.2235649,
+              53.4457176
+            ],
+            [
+              -6.2236351,
+              53.4457039
+            ],
+            [
+              -6.2236494,
+              53.4457298
+            ],
+            [
+              -6.2237202,
+              53.4457159
+            ],
+            [
+              -6.2237489,
+              53.4457678
+            ],
+            [
+              -6.2240482,
+              53.4457091
+            ]
+          ]
+        ]
+      },
+      "id": "way/37890067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/64714925",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "The Grill Nightclub"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.7340031,
+              54.951828
+            ],
+            [
+              -7.7336299,
+              54.9516923
+            ],
+            [
+              -7.733646,
+              54.9516776
+            ],
+            [
+              -7.7336033,
+              54.9516621
+            ],
+            [
+              -7.7335575,
+              54.9517036
+            ],
+            [
+              -7.7335502,
+              54.9517009
+            ],
+            [
+              -7.7334595,
+              54.9517832
+            ],
+            [
+              -7.7334162,
+              54.9517674
+            ],
+            [
+              -7.7333122,
+              54.9518616
+            ],
+            [
+              -7.7333013,
+              54.9518715
+            ],
+            [
+              -7.7331388,
+              54.9518124
+            ],
+            [
+              -7.733131,
+              54.9518195
+            ],
+            [
+              -7.7331042,
+              54.9518098
+            ],
+            [
+              -7.7330839,
+              54.9518282
+            ],
+            [
+              -7.7330642,
+              54.9518211
+            ],
+            [
+              -7.7329127,
+              54.9519585
+            ],
+            [
+              -7.7329567,
+              54.951973
+            ],
+            [
+              -7.7328656,
+              54.9520597
+            ],
+            [
+              -7.7328568,
+              54.9521009
+            ],
+            [
+              -7.7329971,
+              54.9521527
+            ],
+            [
+              -7.7330525,
+              54.9521026
+            ],
+            [
+              -7.7333511,
+              54.9522112
+            ],
+            [
+              -7.7335638,
+              54.9520185
+            ],
+            [
+              -7.7335387,
+              54.9520093
+            ],
+            [
+              -7.7335737,
+              54.9519776
+            ],
+            [
+              -7.7336215,
+              54.9519949
+            ],
+            [
+              -7.7336571,
+              54.9519626
+            ],
+            [
+              -7.7337981,
+              54.9520139
+            ],
+            [
+              -7.7340031,
+              54.951828
+            ]
+          ]
+        ]
+      },
+      "id": "way/64714925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/67195099",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "The Pulse Niteclub"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.7303134,
+              54.9537041
+            ],
+            [
+              -7.7303176,
+              54.9537098
+            ],
+            [
+              -7.7303182,
+              54.9537096
+            ],
+            [
+              -7.7303601,
+              54.9537662
+            ],
+            [
+              -7.7307834,
+              54.9536627
+            ],
+            [
+              -7.730741,
+              54.9536055
+            ],
+            [
+              -7.7307796,
+              54.9535961
+            ],
+            [
+              -7.7307086,
+              54.9535003
+            ],
+            [
+              -7.7307312,
+              54.9534947
+            ],
+            [
+              -7.7307035,
+              54.9534574
+            ],
+            [
+              -7.7306258,
+              54.9534764
+            ],
+            [
+              -7.7306129,
+              54.9534591
+            ],
+            [
+              -7.7305645,
+              54.9534709
+            ],
+            [
+              -7.7305779,
+              54.953489
+            ],
+            [
+              -7.7304958,
+              54.9535091
+            ],
+            [
+              -7.7304777,
+              54.9534847
+            ],
+            [
+              -7.7304374,
+              54.9534946
+            ],
+            [
+              -7.7303608,
+              54.9533913
+            ],
+            [
+              -7.7301483,
+              54.9534433
+            ],
+            [
+              -7.7303082,
+              54.953659
+            ],
+            [
+              -7.730287,
+              54.9536642
+            ],
+            [
+              -7.7303162,
+              54.9537035
+            ],
+            [
+              -7.7303134,
+              54.9537041
+            ]
+          ]
+        ]
+      },
+      "id": "way/67195099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93263454",
+        "addr:city": "Wexford",
+        "addr:street": "Charlotte Street",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "Centenary Stores",
+        "outdoor_seating": "yes",
+        "phone": "053 9124424",
+        "smoking": "outside",
+        "website": "http://thestores.ie/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.4623457,
+              52.3407537
+            ],
+            [
+              -6.4623185,
+              52.3407214
+            ],
+            [
+              -6.4623629,
+              52.3407128
+            ],
+            [
+              -6.4623434,
+              52.3406592
+            ],
+            [
+              -6.4621519,
+              52.3406923
+            ],
+            [
+              -6.4620567,
+              52.3407214
+            ],
+            [
+              -6.4619442,
+              52.3407597
+            ],
+            [
+              -6.4619247,
+              52.3407379
+            ],
+            [
+              -6.4617624,
+              52.340769
+            ],
+            [
+              -6.4617462,
+              52.3407491
+            ],
+            [
+              -6.4616597,
+              52.340765
+            ],
+            [
+              -6.4617862,
+              52.3409349
+            ],
+            [
+              -6.4618393,
+              52.3409217
+            ],
+            [
+              -6.4619171,
+              52.3408767
+            ],
+            [
+              -6.4619723,
+              52.3409038
+            ],
+            [
+              -6.4620697,
+              52.3408589
+            ],
+            [
+              -6.4623457,
+              52.3407537
+            ]
+          ]
+        ]
+      },
+      "id": "way/93263454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154859683",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "The Palace"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.6841164,
+              53.6524935
+            ],
+            [
+              -6.6840724,
+              53.65235
+            ],
+            [
+              -6.6839046,
+              53.6523687
+            ],
+            [
+              -6.6837838,
+              53.6523822
+            ],
+            [
+              -6.6837962,
+              53.6524215
+            ],
+            [
+              -6.6834933,
+              53.6524568
+            ],
+            [
+              -6.6835139,
+              53.6525151
+            ],
+            [
+              -6.6836669,
+              53.6524932
+            ],
+            [
+              -6.6837344,
+              53.6524835
+            ],
+            [
+              -6.6837478,
+              53.652536
+            ],
+            [
+              -6.6841164,
+              53.6524935
+            ]
+          ]
+        ]
+      },
+      "id": "way/154859683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/184010935",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "Celbridge Club"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.5357583,
+              53.3377222
+            ],
+            [
+              -6.5355491,
+              53.3375339
+            ],
+            [
+              -6.5351977,
+              53.3376203
+            ],
+            [
+              -6.5353096,
+              53.3377558
+            ],
+            [
+              -6.5356387,
+              53.3376795
+            ],
+            [
+              -6.5356962,
+              53.3377367
+            ],
+            [
+              -6.5357583,
+              53.3377222
+            ]
+          ]
+        ]
+      },
+      "id": "way/184010935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/231997173",
+        "amenity": "nightclub",
+        "name": "The Arcadia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.6506851,
+              55.2058506
+            ],
+            [
+              -6.6506707,
+              55.2057292
+            ],
+            [
+              -6.6505821,
+              55.2057019
+            ],
+            [
+              -6.6505501,
+              55.205725
+            ],
+            [
+              -6.6505391,
+              55.20576
+            ],
+            [
+              -6.6505131,
+              55.2057698
+            ],
+            [
+              -6.6504846,
+              55.2057794
+            ],
+            [
+              -6.6504836,
+              55.2057983
+            ],
+            [
+              -6.6505058,
+              55.2058068
+            ],
+            [
+              -6.6505315,
+              55.2058111
+            ],
+            [
+              -6.650561,
+              55.2058106
+            ],
+            [
+              -6.6505504,
+              55.2058559
+            ],
+            [
+              -6.6506185,
+              55.2058807
+            ],
+            [
+              -6.6506851,
+              55.2058506
+            ]
+          ]
+        ]
+      },
+      "id": "way/231997173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/232012713",
+        "addr:city": "Dublin",
+        "addr:housenumber": "6",
+        "addr:street": "Mount Street Lower",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "Howl at the Moon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.245337,
+              53.3391328
+            ],
+            [
+              -6.2456126,
+              53.339228
+            ],
+            [
+              -6.2457152,
+              53.3391221
+            ],
+            [
+              -6.2454397,
+              53.3390269
+            ],
+            [
+              -6.245337,
+              53.3391328
+            ]
+          ]
+        ]
+      },
+      "id": "way/232012713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/256651844",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "The Limelight",
+        "operator": "MCD / Shine Productions",
+        "source": "Bing",
+        "website": "http://limelightbelfast.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.9282778,
+              54.5927922
+            ],
+            [
+              -5.928291,
+              54.5929188
+            ],
+            [
+              -5.9284605,
+              54.5929535
+            ],
+            [
+              -5.9284705,
+              54.5929371
+            ],
+            [
+              -5.9284876,
+              54.5929406
+            ],
+            [
+              -5.9284963,
+              54.5929265
+            ],
+            [
+              -5.9285308,
+              54.5929335
+            ],
+            [
+              -5.9285386,
+              54.5929207
+            ],
+            [
+              -5.9287462,
+              54.5929631
+            ],
+            [
+              -5.9287558,
+              54.5929474
+            ],
+            [
+              -5.9288089,
+              54.5928602
+            ],
+            [
+              -5.9283534,
+              54.5927671
+            ],
+            [
+              -5.928333,
+              54.592764
+            ],
+            [
+              -5.9283118,
+              54.5927643
+            ],
+            [
+              -5.9282931,
+              54.59277
+            ],
+            [
+              -5.9282809,
+              54.5927801
+            ],
+            [
+              -5.9282778,
+              54.5927922
+            ]
+          ]
+        ]
+      },
+      "id": "way/256651844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/257565708",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "Planxty Maguires"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.8614168,
+              53.9215943
+            ],
+            [
+              -7.8614524,
+              53.9215837
+            ],
+            [
+              -7.8614933,
+              53.9215105
+            ],
+            [
+              -7.8614342,
+              53.9214417
+            ],
+            [
+              -7.8613099,
+              53.9214176
+            ],
+            [
+              -7.8611931,
+              53.9214524
+            ],
+            [
+              -7.8611522,
+              53.9215256
+            ],
+            [
+              -7.8612112,
+              53.9215944
+            ],
+            [
+              -7.861289,
+              53.9216094
+            ],
+            [
+              -7.8613275,
+              53.921729
+            ],
+            [
+              -7.8614555,
+              53.9217146
+            ],
+            [
+              -7.8614168,
+              53.9215943
+            ]
+          ]
+        ]
+      },
+      "id": "way/257565708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/264895839",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "Silent"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.4016732,
+              54.0028946
+            ],
+            [
+              -6.4013975,
+              54.0027502
+            ],
+            [
+              -6.4011389,
+              54.0029207
+            ],
+            [
+              -6.4014146,
+              54.0030651
+            ],
+            [
+              -6.4015316,
+              54.002988
+            ],
+            [
+              -6.4016732,
+              54.0028946
+            ]
+          ]
+        ]
+      },
+      "id": "way/264895839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/294423416",
+        "addr:city": "Dublin",
+        "addr:street": "St Andrew Lane",
+        "amenity": "nightclub",
+        "building": "yes",
+        "email": "hangardublin@gmail.com",
+        "name": "Hangar",
+        "opening_hours": "Mo 23:00-03:00; Tu off; We-Th 23:00-03:00; Fr-Sa 22:30-03:00; Su off",
+        "website": "http://www.hangardublin.ie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2626052,
+              53.34341
+            ],
+            [
+              -6.262643,
+              53.3432651
+            ],
+            [
+              -6.2625158,
+              53.3432533
+            ],
+            [
+              -6.2624371,
+              53.343246
+            ],
+            [
+              -6.2623989,
+              53.3433924
+            ],
+            [
+              -6.2623604,
+              53.3435403
+            ],
+            [
+              -6.2625663,
+              53.3435594
+            ],
+            [
+              -6.2626052,
+              53.34341
+            ]
+          ]
+        ]
+      },
+      "id": "way/294423416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/297179979",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "River Island",
+        "opening_hours": "closed indefinitely"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4923801,
+              53.7669915
+            ],
+            [
+              -8.4924548,
+              53.7669135
+            ],
+            [
+              -8.4924124,
+              53.7668993
+            ],
+            [
+              -8.4926966,
+              53.7666029
+            ],
+            [
+              -8.4924127,
+              53.7665078
+            ],
+            [
+              -8.4923433,
+              53.7665801
+            ],
+            [
+              -8.4923072,
+              53.7665681
+            ],
+            [
+              -8.4921888,
+              53.7666916
+            ],
+            [
+              -8.4921588,
+              53.7666816
+            ],
+            [
+              -8.4920804,
+              53.7667634
+            ],
+            [
+              -8.4921103,
+              53.7667735
+            ],
+            [
+              -8.4920176,
+              53.7668701
+            ],
+            [
+              -8.4923801,
+              53.7669915
+            ]
+          ]
+        ]
+      },
+      "id": "way/297179979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/304523392",
+        "addr:city": "Mullingar",
+        "addr:housenumber": "39",
+        "addr:street": "Pearse Street",
+        "amenity": "nightclub",
+        "building": "retail",
+        "name": "The Lane Club"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.343633,
+              53.5249072
+            ],
+            [
+              -7.3435308,
+              53.5247149
+            ],
+            [
+              -7.3434349,
+              53.5247378
+            ],
+            [
+              -7.3433463,
+              53.5246029
+            ],
+            [
+              -7.3432754,
+              53.5246155
+            ],
+            [
+              -7.3434846,
+              53.5249475
+            ],
+            [
+              -7.343633,
+              53.5249072
+            ]
+          ]
+        ]
+      },
+      "id": "way/304523392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/364180385",
+        "addr:city": "Belfast",
+        "addr:housenumber": "23-31",
+        "addr:postcode": "BT7 1RR",
+        "addr:street": "Bradbury Place",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "Alibi",
+        "phone": "+44 (0) 28 90233131",
+        "website": "http://alibibelfast.com",
+        "wheelchair": "yes",
+        "wheelchair:description": "Elevator to all 3 floors"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.9350232,
+              54.5887835
+            ],
+            [
+              -5.9348864,
+              54.5889638
+            ],
+            [
+              -5.9350717,
+              54.5890135
+            ],
+            [
+              -5.9351278,
+              54.5890228
+            ],
+            [
+              -5.9352646,
+              54.5888503
+            ],
+            [
+              -5.9350232,
+              54.5887835
+            ]
+          ]
+        ]
+      },
+      "id": "way/364180385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/367253133",
+        "addr:city": "Belfast",
+        "addr:housename": "El Divino",
+        "addr:postcode": "BT1 3PH",
+        "addr:street": "May's Meadow",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "El Divino",
+        "note": "Admission £10",
+        "opening_hours": "21:00-02:00",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.914929,
+              54.5966445
+            ],
+            [
+              -5.9152678,
+              54.5967445
+            ],
+            [
+              -5.9153526,
+              54.5967337
+            ],
+            [
+              -5.9154148,
+              54.5967077
+            ],
+            [
+              -5.9154867,
+              54.5966369
+            ],
+            [
+              -5.9153042,
+              54.5965746
+            ],
+            [
+              -5.9153399,
+              54.5965395
+            ],
+            [
+              -5.9152627,
+              54.5965132
+            ],
+            [
+              -5.9152945,
+              54.5964819
+            ],
+            [
+              -5.9151457,
+              54.5964312
+            ],
+            [
+              -5.914929,
+              54.5966445
+            ]
+          ]
+        ]
+      },
+      "id": "way/367253133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/395308643",
+        "addr:postcode": "BT82 8EH",
+        "addr:street": "Railway Street",
+        "alt_name": "Ruby's",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "Ruby's Bar and Nightclub",
+        "phone": "02871885666",
+        "website": "www.rubysbarandnightclub.com"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.466006,
+              54.8277055
+            ],
+            [
+              -7.4656678,
+              54.8280102
+            ],
+            [
+              -7.4659584,
+              54.8281194
+            ],
+            [
+              -7.4663003,
+              54.8278158
+            ],
+            [
+              -7.466006,
+              54.8277055
+            ]
+          ]
+        ]
+      },
+      "id": "way/395308643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/422423676",
+        "addr:city": "Belfast",
+        "addr:housenumber": "16",
+        "addr:postcode": "BT1 2LH",
+        "addr:street": "Dunbar Street",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "Lux"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.9258534,
+              54.6023538
+            ],
+            [
+              -5.9259506,
+              54.6023409
+            ],
+            [
+              -5.9260946,
+              54.6023228
+            ],
+            [
+              -5.9260645,
+              54.6022459
+            ],
+            [
+              -5.9260632,
+              54.6022227
+            ],
+            [
+              -5.9260734,
+              54.6021426
+            ],
+            [
+              -5.9258167,
+              54.6021303
+            ],
+            [
+              -5.9257609,
+              54.6021375
+            ],
+            [
+              -5.9257378,
+              54.6021667
+            ],
+            [
+              -5.9258534,
+              54.6023538
+            ]
+          ]
+        ]
+      },
+      "id": "way/422423676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/454038204",
+        "amenity": "nightclub",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.6228269,
+              52.664023
+            ],
+            [
+              -8.623014,
+              52.66407
+            ],
+            [
+              -8.6230742,
+              52.6640379
+            ],
+            [
+              -8.6231335,
+              52.6640292
+            ],
+            [
+              -8.6231585,
+              52.6640107
+            ],
+            [
+              -8.6231599,
+              52.6637239
+            ],
+            [
+              -8.6231559,
+              52.6636958
+            ],
+            [
+              -8.6231212,
+              52.663692
+            ],
+            [
+              -8.6227921,
+              52.6637057
+            ],
+            [
+              -8.6228269,
+              52.664023
+            ]
+          ]
+        ]
+      },
+      "id": "way/454038204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/454883951",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "Boom Box"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.9311583,
+              54.6042419
+            ],
+            [
+              -5.9312028,
+              54.6042919
+            ],
+            [
+              -5.9313398,
+              54.6042475
+            ],
+            [
+              -5.9312895,
+              54.6041987
+            ],
+            [
+              -5.9311583,
+              54.6042419
+            ]
+          ]
+        ]
+      },
+      "id": "way/454883951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/492283294",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "Foundry"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.9310077,
+              54.5921155
+            ],
+            [
+              -5.9309338,
+              54.5922695
+            ],
+            [
+              -5.9311582,
+              54.5923097
+            ],
+            [
+              -5.9312381,
+              54.5921533
+            ],
+            [
+              -5.9310077,
+              54.5921155
+            ]
+          ]
+        ]
+      },
+      "id": "way/492283294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/278857890",
+        "amenity": "nightclub",
+        "name": "Club M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2623304,
+          53.3448128
+        ]
+      },
+      "id": "node/278857890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279366962",
+        "amenity": "nightclub",
+        "note": "FIXME: check/rework required",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5538932,
+          52.6687815
+        ]
+      },
+      "id": "node/279366962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290784440",
+        "amenity": "nightclub",
+        "name": "The O Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3462007,
+          53.716067
+        ]
+      },
+      "id": "node/290784440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290784455",
+        "amenity": "nightclub",
+        "name": "The Venue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3468053,
+          53.7163699
+        ]
+      },
+      "id": "node/290784455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300599692",
+        "amenity": "nightclub",
+        "name": "Mojo's",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3444417,
+          53.5243647
+        ]
+      },
+      "id": "node/300599692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/322496030",
+        "addr:city": "Cork",
+        "addr:street": "South Main Street",
+        "amenity": "nightclub",
+        "name": "The Other Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4771219,
+          51.8979662
+        ]
+      },
+      "id": "node/322496030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/348942848",
+        "amenity": "nightclub",
+        "name": "Secrets Lapdancing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4722427,
+          51.90353
+        ]
+      },
+      "id": "node/348942848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/348942873",
+        "amenity": "nightclub",
+        "created_by": "Potlatch 0.10f",
+        "name": "Angels Lapdancing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4713425,
+          51.9022722
+        ]
+      },
+      "id": "node/348942873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/351982445",
+        "amenity": "nightclub",
+        "created_by": "Potlatch 0.10f",
+        "name": "Nero's Nightclub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2530805,
+          52.6532353
+        ]
+      },
+      "id": "node/351982445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/417676777",
+        "addr:street": "Slipper Street",
+        "amenity": "nightclub",
+        "name": "The Claremount"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3457348,
+          52.9314698
+        ]
+      },
+      "id": "node/417676777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/593976455",
+        "amenity": "nightclub",
+        "name": "Creation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6160973,
+          52.0921898
+        ]
+      },
+      "id": "node/593976455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/644007138",
+        "amenity": "nightclub",
+        "name": "The Loft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.493035,
+          53.3633225
+        ]
+      },
+      "id": "node/644007138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/648158817",
+        "amenity": "nightclub",
+        "name": "Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3887472,
+          53.3892559
+        ]
+      },
+      "id": "node/648158817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/652990799",
+        "amenity": "nightclub",
+        "name": "Toffs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4710661,
+          54.2711999
+        ]
+      },
+      "id": "node/652990799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/652990802",
+        "amenity": "nightclub",
+        "name": "HMV Soundgarden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4706225,
+          54.2719293
+        ]
+      },
+      "id": "node/652990802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/739756772",
+        "addr:housenumber": "84-87",
+        "addr:postcode": "D02 DH36",
+        "addr:street": "Camden Street Lower",
+        "amenity": "nightclub",
+        "name": "The Palace",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2655187,
+          53.3359616
+        ]
+      },
+      "id": "node/739756772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/739778199",
+        "addr:street": "Harcourt Street",
+        "amenity": "nightclub",
+        "name": "Copper Face Jacks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2635091,
+          53.335436
+        ]
+      },
+      "id": "node/739778199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/752223416",
+        "amenity": "nightclub",
+        "name": "Maximus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1976378,
+          52.8615101
+        ]
+      },
+      "id": "node/752223416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/775415426",
+        "addr:street": "Harcourt Street",
+        "amenity": "nightclub",
+        "name": "D-Two"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2629409,
+          53.3343859
+        ]
+      },
+      "id": "node/775415426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/778699198",
+        "addr:city": "Dublin 2",
+        "addr:street": "Richmond Street South",
+        "amenity": "nightclub",
+        "name": "Rain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2641442,
+          53.3304003
+        ]
+      },
+      "id": "node/778699198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/942086874",
+        "amenity": "nightclub",
+        "name": "Coco's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3783724,
+          53.3017284
+        ]
+      },
+      "id": "node/942086874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/980055484",
+        "amenity": "nightclub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4616991,
+          52.3396117
+        ]
+      },
+      "id": "node/980055484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987772944",
+        "amenity": "nightclub",
+        "name": "Vibe The Courtyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8749412,
+          53.7271501
+        ]
+      },
+      "id": "node/987772944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1103410889",
+        "addr:city": "Cork",
+        "addr:street": "Saint Patrick Street",
+        "amenity": "nightclub",
+        "contact:email": "enquiries@savoytheatre.ie",
+        "contact:phone": "+353-21-4223910",
+        "contact:website": "www.savoytheatre.ie",
+        "name": "Savoy Theatre",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4713358,
+          51.8992325
+        ]
+      },
+      "id": "node/1103410889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1361483713",
+        "amenity": "nightclub",
+        "name": "Warehouse Bar",
+        "website": "http://www.milan.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7357725,
+          54.9521595
+        ]
+      },
+      "id": "node/1361483713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1440544980",
+        "amenity": "nightclub",
+        "name": "Molly's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.623116,
+          52.664289
+        ]
+      },
+      "id": "node/1440544980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1701787909",
+        "addr:street": "Teeling Street",
+        "amenity": "nightclub",
+        "name": "Sixth",
+        "smoking": "dedicated",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4714484,
+          54.27008
+        ]
+      },
+      "id": "node/1701787909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1787263823",
+        "amenity": "nightclub",
+        "name": "Jumpin' Jacks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2799809,
+          54.4777527
+        ]
+      },
+      "id": "node/1787263823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2059871836",
+        "amenity": "nightclub",
+        "name": "Cartown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0760443,
+          53.9653612
+        ]
+      },
+      "id": "node/2059871836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2098258316",
+        "amenity": "nightclub",
+        "name": "The Hub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7343654,
+          51.7452723
+        ]
+      },
+      "id": "node/2098258316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2130191968",
+        "addr:city": "Waterford",
+        "addr:housenumber": "1",
+        "addr:street": "Manor Street",
+        "amenity": "nightclub",
+        "name": "Sinnotts",
+        "phone": "+353 51 323 037",
+        "smoking": "isolated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1115074,
+          52.2570865
+        ]
+      },
+      "id": "node/2130191968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2177640713",
+        "addr:street": "Denmark Street",
+        "amenity": "nightclub",
+        "name": "Icon Night Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6231706,
+          52.6633237
+        ]
+      },
+      "id": "node/2177640713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2177640720",
+        "addr:street": "Robert Street",
+        "amenity": "nightclub",
+        "name": "Angel Lane Night Club",
+        "website": "www.angellane.ie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6229056,
+          52.6637508
+        ]
+      },
+      "id": "node/2177640720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2404084663",
+        "amenity": "nightclub",
+        "name": "Roonies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9725098,
+          55.1831402
+        ]
+      },
+      "id": "node/2404084663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2681840072",
+        "amenity": "nightclub",
+        "name": "Club Nassau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2547398,
+          53.3421151
+        ]
+      },
+      "id": "node/2681840072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2885169530",
+        "addr:city": "Dublin",
+        "addr:street": "D'Olier Street",
+        "amenity": "nightclub",
+        "name": "Play Night Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2578726,
+          53.3464453
+        ]
+      },
+      "id": "node/2885169530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2951264878",
+        "addr:street": "Old Dunleary Road",
+        "amenity": "nightclub",
+        "name": "The Purty Loft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1480491,
+          53.2952488
+        ]
+      },
+      "id": "node/2951264878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2986981833",
+        "amenity": "nightclub",
+        "name": "Gatsby's",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1148117,
+          51.7217006
+        ]
+      },
+      "id": "node/2986981833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2993749533",
+        "addr:city": "Dundalk",
+        "addr:street": "Park Street",
+        "amenity": "nightclub",
+        "name": "Ridleys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4025237,
+          54.0028383
+        ]
+      },
+      "id": "node/2993749533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3044810381",
+        "addr:city": "Dublin 2",
+        "addr:street": "Harcourt Street",
+        "amenity": "nightclub",
+        "name": "Crawdaddy",
+        "phone": "+353 1 4763374",
+        "smoking": "outside",
+        "website": "http://www.pod.ie/venue_cdaddy.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2624872,
+          53.3337524
+        ]
+      },
+      "id": "node/3044810381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3044810382",
+        "addr:city": "Dublin 2",
+        "addr:street": "Harcourt Street",
+        "amenity": "nightclub",
+        "name": "The Lobby Bar",
+        "phone": "+353 1 4763374",
+        "website": "http://www.pod.ie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2624497,
+          53.3337092
+        ]
+      },
+      "id": "node/3044810382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3044810383",
+        "addr:city": "Dublin 2",
+        "addr:street": "Hatch Street Upper",
+        "amenity": "nightclub",
+        "name": "Tripod",
+        "phone": "+353 1 4763374",
+        "website": "http://www.pod.ie/venue_tripod.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2626052,
+          53.3339494
+        ]
+      },
+      "id": "node/3044810383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3045709849",
+        "amenity": "nightclub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5653701,
+          52.5027926
+        ]
+      },
+      "id": "node/3045709849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3049892510",
+        "addr:city": "Enniscorthy",
+        "addr:street": "Castle Street",
+        "amenity": "nightclub",
+        "name": "Castle Venue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5677134,
+          52.5014462
+        ]
+      },
+      "id": "node/3049892510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3541006280",
+        "amenity": "nightclub",
+        "name": "HOME Nightclub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1786793,
+          53.6111428
+        ]
+      },
+      "id": "node/3541006280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3771358965",
+        "addr:city": "Dublin",
+        "addr:housenumber": "33",
+        "addr:street": "Harcourt Street",
+        "amenity": "nightclub",
+        "name": "Everleigh Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2634856,
+          53.3351615
+        ]
+      },
+      "id": "node/3771358965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3995722520",
+        "amenity": "nightclub",
+        "name": "Club V",
+        "website": "http://riverfront.ie/club-v/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0820842,
+          53.8347571
+        ]
+      },
+      "id": "node/3995722520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4001064185",
+        "addr:city": "Waterford",
+        "addr:housenumber": "30",
+        "addr:street": "John Street",
+        "amenity": "nightclub",
+        "name": "The Foundry Nightclub",
+        "phone": "+353 51 854 727",
+        "website": "http://thefoundrywaterford.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1113359,
+          52.2572691
+        ]
+      },
+      "id": "node/4001064185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4001064186",
+        "addr:city": "Waterford",
+        "addr:street": "Manor Street",
+        "amenity": "nightclub",
+        "name": "Masons",
+        "opening_hours": "19:00-01:00",
+        "phone": "+353 51 875881",
+        "smoking": "isolated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1117576,
+          52.2572054
+        ]
+      },
+      "id": "node/4001064186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4017163116",
+        "amenity": "nightclub",
+        "name": "Habitat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6231188,
+          52.6655034
+        ]
+      },
+      "id": "node/4017163116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4020545667",
+        "amenity": "nightclub",
+        "name": "SG1 Nightclub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2763748,
+          52.1383642
+        ]
+      },
+      "id": "node/4020545667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4032151935",
+        "amenity": "nightclub",
+        "name": "Smyth's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6235436,
+          52.6635597
+        ]
+      },
+      "id": "node/4032151935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4209884820",
+        "addr:city": "Dublin",
+        "addr:housenumber": "27",
+        "addr:street": "Leeson Street Lower",
+        "amenity": "nightclub",
+        "email": "welcome@housedublin.ie",
+        "name": "House Dublin",
+        "opening_hours": "Mo-We 10:00-24:00, Th-Fr 10:00-03:00, Sa 16:00-3:00",
+        "phone": "+353 1 9059090",
+        "website": "http://www.housedublin.ie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2551589,
+          53.3340114
+        ]
+      },
+      "id": "node/4209884820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4378144693",
+        "amenity": "nightclub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.2264042,
+          51.9460854
+        ]
+      },
+      "id": "node/4378144693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4513738301",
+        "amenity": "nightclub",
+        "name": "The Kremlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9307563,
+          54.603744
+        ]
+      },
+      "id": "node/4513738301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4801674231",
+        "amenity": "nightclub",
+        "name": "The Bacchus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5245251,
+          51.7057455
+        ]
+      },
+      "id": "node/4801674231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4976376874",
+        "amenity": "nightclub",
+        "name": "The Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6223407,
+          52.6632408
+        ]
+      },
+      "id": "node/4976376874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5030921069",
+        "addr:city": "Dublin",
+        "addr:housenumber": "5",
+        "addr:street": "Hawkins Street",
+        "amenity": "nightclub",
+        "name": "Tramline",
+        "opening_hours": "Mo-Su 22:00-03:00",
+        "phone": "+353-87-7005423",
+        "website": "http://www.tramline.ie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2572609,
+          53.3465386
+        ]
+      },
+      "id": "node/5030921069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5176264372",
+        "addr:city": "Belfast",
+        "addr:housenumber": "10a",
+        "addr:postcode": "BT1 4EF",
+        "addr:street": "Ann Street",
+        "amenity": "nightclub",
+        "name": "Love and Death Inc."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9270388,
+          54.5989734
+        ]
+      },
+      "id": "node/5176264372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5384227888",
+        "amenity": "nightclub",
+        "name": "House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6308731,
+          52.6629756
+        ]
+      },
+      "id": "node/5384227888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5403857378",
+        "addr:city": "Castleblayney",
+        "addr:street": "Main Steert",
+        "amenity": "nightclub",
+        "name": "Switch Nightclub",
+        "smoking": "isolated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7361422,
+          54.1198472
+        ]
+      },
+      "id": "node/5403857378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5495191224",
+        "addr:housenumber": "19-29",
+        "addr:postcode": "D04 Y6K4",
+        "addr:street": "Morehampton Road",
+        "amenity": "nightclub",
+        "name": "Vanilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2429263,
+          53.3258736
+        ]
+      },
+      "id": "node/5495191224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5533029799",
+        "amenity": "nightclub",
+        "name": "Queens NightClub",
+        "opening_hours": "Fr-Su",
+        "phone": "+353 65 6828963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9813128,
+          52.8454843
+        ]
+      },
+      "id": "node/5533029799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5581103828",
+        "addr:city": "Wexford",
+        "addr:street": "Wellington Place",
+        "amenity": "nightclub",
+        "name": "Crown Bar",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4624295,
+          52.3416179
+        ]
+      },
+      "id": "node/5581103828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5600943798",
+        "addr:city": "Wexford",
+        "addr:street": "Commercial Quay",
+        "amenity": "nightclub",
+        "facebook": "https://www.facebook.com/Mooneyswexford/",
+        "name": "Mooneys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4615734,
+          52.3406292
+        ]
+      },
+      "id": "node/5600943798"
+    }
+  ]
+}
